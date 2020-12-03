@@ -1,0 +1,5 @@
+﻿GameEngine/.vs
+GameEngine/bin
+GameEngine/bin-int
+
+*.user
